@@ -1,3 +1,15 @@
+# tech-test-try1
+Tried to email the code didnt work sorry :( <br />
+To run:<br />
+step3: navigate inside unziped file<br />
+step4: run `npm install` <br />
+step5: run `npm run start`<br />
+step6: open http://localhost:4200/ in your browser.<br />
+
+to run tests <br />
+for unit and integration tests run `npm run test`<br />
+for scss tests run `npm run test:scss`<br />
+
 # TechTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
