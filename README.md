@@ -4,5 +4,5 @@ To run:<br />
 step1 : unzip the file<br />
 step2: navigate inside unziped file<br />
 step3: run `npm install` <br />
-step4: run `ng serve`<br />
+step4: run `npm run start`<br />
 step5: open http://localhost:4200/ in your browser.<br />
